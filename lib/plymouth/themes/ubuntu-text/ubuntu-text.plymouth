@@ -1,0 +1,11 @@
+[Plymouth Theme]
+Name=Ubuntu Text
+Description=Text mode theme based on ubuntu-logo theme
+ModuleName=ubuntu-text
+
+[ubuntu-text]
+title=Linux Lite 1.0.6
+black=0x000000
+white=0xffffff
+brown=0xffff00
+blue=0x000000
